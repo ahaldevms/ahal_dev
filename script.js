@@ -58,67 +58,55 @@ function img_home_l(){
 
 function card_1_o(){
     document.getElementById("card_1").style.scale="1.06"
-    document.getElementById("card_1").style.zIndex="1"
     document.getElementById("card_1").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_1_l(){
     document.getElementById("card_1").style.scale="1"
-    document.getElementById("card_1").style.zIndex="0"
     document.getElementById("card_1").style.boxShadow="0px 0px 0px #ffffff"
 }
 
 function card_2_o(){
     document.getElementById("card_2").style.scale="1.06"
-    document.getElementById("card_2").style.zIndex="1"
     document.getElementById("card_2").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_2_l(){
     document.getElementById("card_2").style.scale="1"
-    document.getElementById("card_2").style.zIndex="0"
     document.getElementById("card_2").style.boxShadow="0px 0px 0px #ffffff"
 }
 
 function card_3_o(){
     document.getElementById("card_3").style.scale="1.06"
-    document.getElementById("card_3").style.zIndex="1"
     document.getElementById("card_3").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_3_l(){
     document.getElementById("card_3").style.scale="1"
-    document.getElementById("card_3").style.zIndex="0"
     document.getElementById("card_3").style.boxShadow="0px 0px 0px #ffffff"
 }
 
 function card_4_o(){
     document.getElementById("card_4").style.scale="1.06"
-    document.getElementById("card_4").style.zIndex="1"
     document.getElementById("card_4").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_4_l(){
     document.getElementById("card_4").style.scale="1"
-    document.getElementById("card_4").style.zIndex="0"
     document.getElementById("card_4").style.boxShadow="0px 0px 0px #ffffff"
 }
 
 function card_5_o(){
     document.getElementById("card_5").style.scale="1.06"
-    document.getElementById("card_5").style.zIndex="1"
     document.getElementById("card_5").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_5_l(){
     document.getElementById("card_5").style.scale="1"
-    document.getElementById("card_5").style.zIndex="0"
     document.getElementById("card_5").style.boxShadow="0px 0px 0px #ffffff"
 }
 
 function card_6_o(){
     document.getElementById("card_6").style.scale="1.06"
-    document.getElementById("card_6").style.zIndex="1"
     document.getElementById("card_6").style.boxShadow="0px 1px 15px #c8c8c8"
 }
 function card_6_l(){
     document.getElementById("card_6").style.scale="1"
-    document.getElementById("card_6").style.zIndex="0"
     document.getElementById("card_6").style.boxShadow="0px 0px 0px #ffffff"
 }
 

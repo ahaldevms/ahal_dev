@@ -110,3 +110,25 @@ function card_6_l(){
     document.getElementById("card_6").style.boxShadow="0px 0px 0px #ffffff"
 }
 
+
+
+const text = document.querySelector(".sec-text");
+
+        const textLoad = () => {
+            setTimeout(() => {
+                text.textContent = "Freelancer";
+            }, 0);
+            setTimeout(() => {
+                text.textContent = "Web Desinger";
+            }, 4000);
+            setTimeout(() => {
+                text.textContent = "video Editor";
+            }, 8000); //1s = 1000 milliseconds
+            setTimeout(() => {
+                text.textContent = "photo Editor";
+            }, 12000); //1s = 1000 milliseconds
+            
+        }
+
+        textLoad();
+        setInterval(textLoad, 16000);
